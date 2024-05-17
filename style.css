@@ -5,3 +5,9 @@ body {
 p {
     color: aliceblue;
 }
+
+.pheader {
+    font-style: normal;
+    font-weight: 50;
+    
+}
