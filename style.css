@@ -11,3 +11,33 @@ p {
     font-weight: 50;
     
 }
+
+.leftpane {
+    width: 34%;
+    height: 100vh;
+    background-color: rgb(43, 42, 42);
+    border: 1px solid #ddd;
+  }
+  
+.middlepane {
+    width: 32%;
+    height: 100vh;
+    background-color: rgb(43, 42, 42);
+    border: 1px solid #ddd;
+  }
+  
+.rightpane {
+    width: 32%;
+    height: 100vh;
+    background-color: rgb(43, 42, 42);
+    border: 1px solid #ddd;
+  }
+
+
+.d-flex {
+    display: flex;
+  }
+
+i {
+    color: aliceblue; 
+}
